@@ -26,3 +26,7 @@ kotlin {
 application {
     mainClass.set("MainKt")
 }
+
+micronaut {
+    version = "4.0.2"
+}
